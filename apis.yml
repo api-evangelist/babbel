@@ -1,0 +1,83 @@
+aid: babbel
+name: Babbel
+description: >-
+  Babbel is a Berlin, Germany-based language learning company founded in 2007
+  by Thomas Holl, Markus Witte, Lorenz Heine, and Toine Diepstraten. It
+  operates one of the world's first online language-learning platforms,
+  offering structured, conversation-focused courses in 14 languages including
+  Spanish, French, German, Italian, Portuguese, Russian, Polish, Swedish,
+  Norwegian, Danish, Dutch, Turkish, Indonesian, and English. The Babbel
+  product suite includes the core subscription Babbel App with interactive
+  bite-sized lessons, speech recognition, and AI conversation partners;
+  Babbel Live for online classes with certified teachers; Babbel for
+  Business for enterprise language training; Babbel Podcasts and Babbel
+  Magazine for supplemental content; and Babbel Videos on YouTube. The
+  company has sold over 25 million subscriptions and reports that 92% of
+  users improved their proficiency in two months, with effectiveness
+  studies conducted by Michigan State University, Yale University, and
+  CUNY. Babbel maintains an additional office in New York City and is
+  privately held. Babbel's revenue model is direct-to-consumer
+  subscriptions (monthly, annual, lifetime tiers) plus enterprise B2B
+  licensing through Babbel for Business; there is no public developer API,
+  SDK, or open-source learner content. The Babbel GitHub organization
+  publishes internal infrastructure tooling (Terraform AWS modules, Puma
+  plugins, OkHttp AWS signing, GitHub Actions) but no consumer-facing API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Language Learning
+  - Education
+  - EdTech
+  - Online Learning
+  - Mobile Learning
+  - Subscription
+  - Consumer
+  - Enterprise Training
+  - Speech Recognition
+  - Conversational AI
+  - Podcasts
+url: https://raw.githubusercontent.com/api-evangelist/babbel/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.babbel.com
+  - type: AboutUs
+    url: https://www.babbel.com/about-us
+  - type: BabbelForBusiness
+    url: https://business.babbel.com
+  - type: BabbelLive
+    url: https://www.babbel.com/learn-languages-online-with-live-classes
+  - type: Magazine
+    url: https://www.babbel.com/en/magazine
+  - type: Podcasts
+    url: https://www.babbel.com/podcasts
+  - type: Press
+    url: https://press.babbel.com
+  - type: Careers
+    url: https://careers.babbel.com
+  - type: GitHub
+    url: https://github.com/babbel
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/babbel-com
+  - type: Twitter
+    url: https://twitter.com/babbel
+  - type: YouTube
+    url: https://www.youtube.com/@babbel
+  - type: Facebook
+    url: https://www.facebook.com/babbel.languages
+  - type: Instagram
+    url: https://www.instagram.com/babbel
+  - type: HelpCenter
+    url: https://support.babbel.com
+  - type: Privacy
+    url: https://www.babbel.com/privacy
+  - type: Terms
+    url: https://www.babbel.com/terms
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
