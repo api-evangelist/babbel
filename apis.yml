@@ -44,6 +44,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/babbel-domain-security.yml
   - type: Website
     url: https://www.babbel.com
   - type: AboutUs
@@ -78,6 +80,8 @@ common:
     url: https://www.babbel.com/privacy
   - type: Terms
     url: https://www.babbel.com/terms
+  - url: https://cms.babbel.news/feed/?post_type=english_edition
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
