@@ -1,0 +1,21 @@
+{
+  "repo": "babbel",
+  "feeds": [
+    {
+      "source": "https://cms.babbel.news/feed/?post_type=english_edition",
+      "feed_url": "https://cms.babbel.news/feed/?post_type=english_edition",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://cms.babbel.news/feed/?category_name=babbel-bytes",
+      "feed_url": "https://cms.babbel.news/feed/?category_name=babbel-bytes",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 34
+}
