@@ -59,7 +59,6 @@ tags:
   - Enterprise Training
   - Speech Recognition
   - Conversational AI
-  - Podcasts
 url: https://raw.githubusercontent.com/api-evangelist/babbel/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
@@ -107,3 +106,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Podcasts
